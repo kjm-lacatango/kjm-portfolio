@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kjm-portfolio/static/css/main.a0d5f88c.css",
+    "main.js": "/kjm-portfolio/static/js/main.7a9c2ce2.js",
+    "static/media/noBackground2.png": "/kjm-portfolio/static/media/noBackground2.4b5fcae09dd6aff3e286.png",
+    "static/media/noBackground1.png": "/kjm-portfolio/static/media/noBackground1.484d0b44a898e3b1165d.png",
+    "static/media/social_main.JPG": "/kjm-portfolio/static/media/social_main.b681b0ee6d5614df9442.JPG",
+    "static/media/social_dash_myPost.JPG": "/kjm-portfolio/static/media/social_dash_myPost.a721d8e350c564c65270.JPG",
+    "static/media/noteApp_main.JPG": "/kjm-portfolio/static/media/noteApp_main.62021282b3a3ea449186.JPG",
+    "static/media/social_dash_dark.JPG": "/kjm-portfolio/static/media/social_dash_dark.ff349076e754a067d049.JPG",
+    "static/media/social_dash_all.JPG": "/kjm-portfolio/static/media/social_dash_all.907eb45642e6fc941a92.JPG",
+    "static/media/social_dash_comment.JPG": "/kjm-portfolio/static/media/social_dash_comment.5319f522d8bedabafff8.JPG",
+    "static/media/social_dash_saved.JPG": "/kjm-portfolio/static/media/social_dash_saved.1b88d7f9fc20dc5dd636.JPG",
+    "static/media/noteApp_dash1.JPG": "/kjm-portfolio/static/media/noteApp_dash1.a4143a98e97c86fdfd0b.JPG",
+    "static/media/social_dash_manage.JPG": "/kjm-portfolio/static/media/social_dash_manage.92b36f0331f57aeebcc6.JPG",
+    "static/media/noteApp_dash3.JPG": "/kjm-portfolio/static/media/noteApp_dash3.d5beba7013ac2a6bfd5a.JPG",
+    "static/media/social_auth.JPG": "/kjm-portfolio/static/media/social_auth.68d721d80052ee2eba06.JPG",
+    "static/media/social_dash_create.JPG": "/kjm-portfolio/static/media/social_dash_create.4b71db5b99537ae6444a.JPG",
+    "static/media/noteApp_dash2.JPG": "/kjm-portfolio/static/media/noteApp_dash2.87684a999f77d60bfe84.JPG",
+    "static/media/noteApp_auth.JPG": "/kjm-portfolio/static/media/noteApp_auth.bc2920dc4794ecb28bfc.JPG",
+    "index.html": "/kjm-portfolio/index.html",
+    "main.a0d5f88c.css.map": "/kjm-portfolio/static/css/main.a0d5f88c.css.map",
+    "main.7a9c2ce2.js.map": "/kjm-portfolio/static/js/main.7a9c2ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d5f88c.css",
+    "static/js/main.7a9c2ce2.js"
+  ]
+}
